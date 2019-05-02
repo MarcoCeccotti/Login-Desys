@@ -1,0 +1,36 @@
+html, body {
+	margin: 0;
+}
+
+label {
+	color: white;
+}
+
+#title {
+	font-size: 20px;
+	top: 15px;
+	float: left;
+}
+
+.container {
+	width: 350px;
+	height: 260px;
+	padding: 10px;
+	margin: auto;
+    background-color: #ff3300;
+}
+
+.logout_div {
+	display: none;
+	background-color: blue;
+	border: 2px solid black;
+	padding-right: 200px;
+}
+
+.logout_btn {
+	background-color: black;
+	color: white;
+	height: 40px;
+	width: 70px;
+	float: right;
+}

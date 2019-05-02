@@ -1,0 +1,41 @@
+html, body {
+	margin: 0;
+}
+
+input {
+	background-color: #ffff66;
+	width: 95%;
+}
+
+label {
+	color: white;
+}
+
+.container {
+	width: 350px;
+	height: 260px;
+	padding: 10px;
+	margin: auto;
+    background-color: #ff3300;
+}
+
+.login_failed {
+	display: none;
+	background-color: blue;
+	border: 2px solid black;
+}
+
+.loginbtn {
+	background-color: black;
+	color: white;
+	height: 40px;
+	width: 70px;
+	margin-top: 10px;
+}
+
+.forgot_password_link {
+	position: relative;
+	text-decoration: none;
+	color: white;
+	float: right;
+}
